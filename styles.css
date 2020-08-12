@@ -1,0 +1,35 @@
+header{
+    height: 10vh;
+    width: 100vw;
+    background-color: purple;
+    display: box;
+    padding: 2px;
+    margin: 0;
+
+    
+}
+
+.backing{
+    height: 100vh;
+    width: 100%;
+    background-image: url("https://www.gannett-cdn.com/presto/2019/12/10/PBRE/2315e2fd-e8b9-49fd-869d-f9c06e29e3ce-demo1-chutes.jpg?auto=webp&crop=858,483,x10,y0&format=pjpg&width=1200%22");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    padding: 0;
+    margin: 0;
+
+}
+    
+li{
+    height: 5px;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 2vh;
+    align-content: center;
+    text-size-adjust: 5px;
+}
+
+.logo{
+    height: 8vh;
+}
